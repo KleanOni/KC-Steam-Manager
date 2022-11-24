@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KC™ Steam Manager", "KC™ Steam Manager.csproj", "{5D1F3A3C-3908-457C-8FE6-2DE099148E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D1F3A3C-3908-457C-8FE6-2DE099148E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1F3A3C-3908-457C-8FE6-2DE099148E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1F3A3C-3908-457C-8FE6-2DE099148E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1F3A3C-3908-457C-8FE6-2DE099148E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B23E19C2-EF23-4BA7-87AD-0DA424BD0458}
+	EndGlobalSection
+EndGlobal

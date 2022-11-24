@@ -1,0 +1,26 @@
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\bin\Debug\KC™ Steam Login Manager.exe.config
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\bin\Debug\KC™ Steam Login Manager.exe
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\bin\Debug\KC™ Steam Login Manager.pdb
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\bin\Debug\Guna.UI2.dll
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Manager.csproj.AssemblyReference.cache
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC__Steam_Manager.MainUI.resources
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC__Steam_Manager.Properties.Resources.resources
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Manager.csproj.GenerateResource.cache
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Manager.csproj.CoreCompileInputs.cache
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Manager.csproj.CopyComplete
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Login Manager.exe
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Login Manager.pdb
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\bin\Debug\KC™ Steam Login Manager.exe.config
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\bin\Debug\KC™ Steam Login Manager.exe
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\bin\Debug\KC™ Steam Login Manager.pdb
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\bin\Debug\Guna.UI2.dll
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Manager.csproj.AssemblyReference.cache
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC__Steam_Manager.MainUI.resources
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC__Steam_Manager.Properties.Resources.resources
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Manager.csproj.GenerateResource.cache
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Manager.csproj.CoreCompileInputs.cache
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Manager.csproj.CopyComplete
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Login Manager.exe
+C:\Users\kroni\Documents\Coding Projects\Github\Private\C#\KC-Sources\Other\SteamLoginManager\KC™ Steam Manager\obj\Debug\KC™ Steam Login Manager.pdb
